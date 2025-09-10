@@ -20,6 +20,7 @@
     <Folder Include="Business\Interfaces\" />
     <Folder Include="Business\Services\" />
     <Folder Include="Repository\Interfaces\" />
+    <Folder Include="Views\Booking\" />
   </ItemGroup>
 
   <ItemGroup>
